@@ -17,6 +17,12 @@ Preprocessing:
     Comments Removed
     Expansion of the files
 
+Compilation:
+    Source code will be converted to machine level language. The file will be of the type .o . The .s file is the assembly level langauage.
+
+Linking:
+    
+
 Output:
     Intermediate file
     Assembly level file
