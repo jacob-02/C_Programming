@@ -3,5 +3,5 @@
 int main()
 {
     printf("Hello world\n");
-    printf("Adding a commit");
+    printf("Adding a commit\n");
 }
