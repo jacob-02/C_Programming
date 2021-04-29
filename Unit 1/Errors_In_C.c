@@ -31,7 +31,7 @@ Link Time Errors
         }
 
 Run Time Errors
-    Happens when the code runs. There are no Linking or Compiler errors. The code has a logical error
+    Happens when the code runs. There are no Linking or Compiler errors. The code has a inherent problems in common knowledge
 
     Example:
         #include <stdio.h>
@@ -43,4 +43,26 @@ Run Time Errors
             printf("Adding a commit\n");
         }
 
+Logical Errors
+    Happens when the expected outcome is not available
+    
+    Example:
+
+        // Wanting to print Hello People
+
+        #include <stdio.h>
+
+        int main()
+        {
+            printf("Hello world\n");
+            printf("Adding a commit\n");
+        }
+
 */
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Standard C Version=%d", __STDC_VERSION__);
+}
