@@ -9,5 +9,25 @@ Errors in C
 Compile Time Errors
     Object File doesn't get created in Compile time errors
     
+    Example:
+        #include <stdio.h>
+
+        int main()
+        {
+            printf("Hello world\n")
+            printf("Adding a commit\n");
+        }
+
+Link Time Errors
+    Happens when the compiler is linking the program to the modules called like stdio.h
+
+    Example:
+        #include <stdio.h>
+
+        int main()
+        {
+            Printf("Hello world\n");
+            printf("Adding a commit\n");
+        }
 
 */
