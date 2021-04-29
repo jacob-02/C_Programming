@@ -30,4 +30,17 @@ Link Time Errors
             printf("Adding a commit\n");
         }
 
+Run Time Errors
+    Happens when the code runs. There are no Linking or Compiler errors. The code has a logical error
+
+    Example:
+        #include <stdio.h>
+
+        int main()
+        {
+            printf("Hello world\n");
+            printf("%d", 12/0);
+            printf("Adding a commit\n");
+        }
+
 */
