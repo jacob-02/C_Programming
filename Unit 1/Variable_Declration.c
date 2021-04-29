@@ -13,3 +13,11 @@ variable name given to the location
     storage class
 
 */
+
+#include <stdio.h>
+
+int main()
+{
+    printf("%ld", sizeof(long int));  // Ways to find the sizeof of any data type
+    printf("\n");
+}
