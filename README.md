@@ -2,9 +2,7 @@
 
 UNIT 1
 
-Unit one stuff
-
-Errors in C
+Errors in C:
     Compile Time Errors
     Link Time Errors
     Run Time Errors
