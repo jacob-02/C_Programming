@@ -9,7 +9,7 @@ Errors in C:
     Logical Errors.
 
 Compile Time Errors
-    Object File doesn't get created in Compile time errors
+Object File doesn't get created in Compile time errors
     
     Example:
         #include <stdio.h>
