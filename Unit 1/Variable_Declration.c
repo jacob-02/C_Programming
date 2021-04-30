@@ -18,6 +18,7 @@ variable name given to the location
 
 int main()
 {
-    printf("%ld", sizeof(long int));  // Ways to find the sizeof of any data type
-    printf("\n");
+    int a;
+    printf("%d\n", &a);
+    printf("%d\n", a);
 }
