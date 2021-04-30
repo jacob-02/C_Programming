@@ -8,8 +8,8 @@ Errors in C:
     Run Time Errors,
     Logical Errors.
 
-Compile Time Errors
-Object File doesn't get created in Compile time errors
+Compile Time Errors: 
+    Object File doesn't get created in Compile time errors
     
     Example:
         #include <stdio.h>
@@ -20,7 +20,7 @@ Object File doesn't get created in Compile time errors
             printf("Adding a commit\n");
         }
 
-Link Time Errors
+Link Time Errors:
     Happens when the compiler is linking the program to the modules called like stdio.h
 
     Example:
@@ -32,7 +32,7 @@ Link Time Errors
             printf("Adding a commit\n");
         }
 
-Run Time Errors
+Run Time Errors:
     Happens when the code runs. There are no Linking or Compiler errors. The code has a inherent problems in common knowledge
 
     Example:
@@ -45,7 +45,7 @@ Run Time Errors
             printf("Adding a commit\n");
         }
 
-Logical Errors
+Logical Errors:
     Happens when the expected outcome is not available
     
     Example:
@@ -60,7 +60,7 @@ Logical Errors
             printf("Adding a commit\n");
         }
 
-Program Development Life Cycle
+Program Development Life Cycle:
 gcc -save-temps first.c -> This gives the Assembly level file and the Machine Level file
 
 Editing:
@@ -82,7 +82,7 @@ Linking:
 
 
 Loading:
-
+    To be announced
 
 Output:
     Intermediate file
@@ -90,7 +90,9 @@ Output:
     These 2 together are called as Translation Unit
 
 Program Structure
+
 It is case sensitive
+
 C is free format source code =  That is indentation doesn't matter
 
 Variable name given to the location
