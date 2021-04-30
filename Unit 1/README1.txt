@@ -86,3 +86,20 @@ Output:
     Intermediate file
     Assembly level file
     These 2 together are called as Translation Unit
+
+Program Structure
+It is case sensitive
+C is free format source code =  That is indentation doesn't matter
+
+Variable name given to the location
+    name
+    value
+    type
+        set of values
+        set of operations
+    location
+    scope
+    lifetime
+    qualifiers
+    storage class
+
