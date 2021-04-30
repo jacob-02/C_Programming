@@ -12,7 +12,7 @@ variable name given to the location
     qualifiers
     storage class
 
-*/
+
 
 #include <stdio.h>
 
@@ -22,4 +22,17 @@ int main()
     printf("%d\n", &a); // This gives the address of the variable
     printf("%d\n", a);  // This gives the value of the variable. If no value is given, it gives a random garbage value
 
+}
+*/
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    char c = 'd';
+    float b = 2.345;
+    printf("%d\n", sizeof(a));
+    printf("%d\n", sizeof(b));
+    printf("%d\n", sizeof(c));
 }
