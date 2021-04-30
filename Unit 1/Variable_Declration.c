@@ -18,7 +18,8 @@ variable name given to the location
 
 int main()
 {
-    int a;
-    printf("%d\n", &a);
-    printf("%d\n", a);
+    int a = 130;
+    printf("%d\n", &a); // This gives the address of the variable
+    printf("%d\n", a);  // This gives the value of the variable. If no value is given, it gives a random garbage value
+
 }
