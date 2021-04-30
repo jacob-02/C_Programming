@@ -1,6 +1,6 @@
 /*
 
-variable name given to the location
+Variable name given to the location
     name
     value
     type
