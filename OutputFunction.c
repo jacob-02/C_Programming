@@ -15,4 +15,6 @@ printf => formatted output function
 %f => float
 %lf => double
 
+If you try to run the float format specifier using integer value, then the value 0 it will be printed
+
 */
