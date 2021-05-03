@@ -18,3 +18,12 @@ printf => formatted output function
 If you try to run the float format specifier using integer value, then the value 0 it will be printed
 
 */
+
+#include <stdio.h>
+int main()
+{
+    printf("%s %s %s %s", "one", "two", "three", "four");
+    printf("%s %s %s %s", "one", "two", "three");
+    printf("%.2f\n", 2.567);
+    printf("%d", 2.5);
+}
