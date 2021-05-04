@@ -6,6 +6,12 @@ Operators
         unary - one operator
         binary - 2 operators
         ternary - 3 operators
+    
+    Increment Operators
+        ++ is used
+    
+    Decrement Operators
+        -- is used 
 
 */
 
