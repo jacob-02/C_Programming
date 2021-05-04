@@ -21,5 +21,7 @@ int main()
     b = a++;
     printf("%d %d\n", a, b);
     b = a++;
-    printf("%d %d", a, b);
+    printf("%d %d\n", a, b);
+    printf("%d \n", a);
+    printf("%d %d %d", a++, a++, ++a);
 }
