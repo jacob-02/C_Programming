@@ -159,3 +159,9 @@ Operators
         Unary - one operator
         Binary - 2 operators
         Ternary - 3 operators
+    
+    Increment Operators
+        ++ is used
+    
+    Decrement Operators
+        -- is used 
