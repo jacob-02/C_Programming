@@ -151,3 +151,11 @@ Output Functions:
         printf("%.2f\n", 2.567);
         printf("%d", 2.5);
     }
+
+Operators
+
+    Types of operators
+    Based on the operands 
+        Unary - one operator
+        Binary - 2 operators
+        Ternary - 3 operators
