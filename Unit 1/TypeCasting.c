@@ -12,3 +12,14 @@ Type Casting
             printf("%d\n", sum);
 
 */
+
+#include <stdio.h>
+
+int main()
+{
+    int a=5, b;
+    b = a++;
+    printf("%d %d\n", a, b);
+    b = a++;
+    printf("%d %d", a, b);
+}

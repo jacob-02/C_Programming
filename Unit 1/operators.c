@@ -11,7 +11,7 @@ Operators
         ++ is used
     
     Decrement Operators
-        -- is used 
+        -- is used
 
 */
 
