@@ -13,6 +13,12 @@ Operators
     Decrement Operators
         -- is used
 
+    Logical Operators:
+        When more than one condition needs to be tested
+        Yields a value of one or zero
+        Execution happens from left to right
+        Stops as soon as flasehood or truth is determined
+
 */
 
 #include <stdio.h>
