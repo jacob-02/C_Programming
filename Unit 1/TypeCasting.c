@@ -12,7 +12,6 @@ Type Casting
             printf("%d\n", sum);
 
 */
-
 #include <stdio.h>
 
 int main()
