@@ -25,5 +25,27 @@ Operators
 
 int main()
 {
-    printf("%d %f %f %f", 25/4, 25.0/4.0, 25.0/4, 25/4.0);
+    printf("%d %f %f %f\n", 25/4, 25.0/4.0, 25.0/4, 25/4.0);
+
+    // Logical Operators
+
+    int a = 5, b = 10;
+    int res = (a == 5) && (b == 10);    // If both conditions are true, then the value of res is 1, else 0
+    printf("%d\n", res);
+
+    // Using XOR
+
+    a = a ^ b;
+    b = a ^ b;
+    a = a ^ b;
+    printf("%d %d\n", a, b);
+
+    // Dereferencing
+
+    int *p = &a;    // This is the dereferencing operator
+    printf("%p %p\n", &a, &p);  // Address of p
+    printf("%d %d\n", a, p);  // Address of a
+
+    int q = &b;
+    printf("%d %d\n", q, b);
 }
