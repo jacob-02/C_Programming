@@ -45,9 +45,9 @@ int main()
     b = a/0;
     printf("b is %d\n", b);
     printf("a is %f\n", a);
-    
+
     // Unspecified Behavior
 
     int d = 10;
-    printf("%d %d %d", d++, d++ - --d, --d);
+    printf("%d %d %d", d--, d-- + ++d, ++d);
 }
