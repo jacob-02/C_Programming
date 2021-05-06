@@ -30,16 +30,24 @@ Behaviors:
     Unspecified Behavior - Evaluation of arguments in printf function
     Implementation Defined Behavior -  Size of each type
     Undefined Behavior - Infinity errors
+
 */
 
 #include <stdio.h>
 
 int main()
 {
-    //printf("%d\n", 25/0);   // Undefined error
-    float a = 23.4;
+    // Undefined error
+    
+    //printf("%d\n", 25/0);
+    float a = 23.5;
     int b = 0;
     b = a/0;
-    printf("a is %f\n", a);
     printf("b is %d\n", b);
+    printf("a is %f\n", a);
+
+    // Unspecified Behavior
+
+    int d = 10;
+    printf("%d %d %d", d++, d++ - --d, --d);
 }
