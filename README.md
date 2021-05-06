@@ -165,3 +165,13 @@ Operators
     
     Decrement Operators
         -- is used 
+    
+    Dereferencing:
+
+        int *p = &a;    // This is the dereferencing operator
+        printf("%p %p\n", &a, &p);  // Address of p
+        printf("%d %d\n", a, p);  // Address of a
+
+        int q = &b;
+        printf("%d %d\n", q, b);
+
