@@ -48,4 +48,12 @@ int main()
 
     int q = &b;
     printf("%d %d\n", q, b);
+
+    // Ternary Operator or Conditional Operator
+
+    int x = 5,y =3;
+    int s = (x > y)?x:y;
+
+    printf("%d\n", s);
+    (x > y)?printf("%d", x):printf("%d", y);
 }
