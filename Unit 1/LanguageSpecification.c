@@ -38,14 +38,14 @@ Behaviors:
 int main()
 {
     // Undefined error
-    
+
     //printf("%d\n", 25/0);
     float a = 23.5;
     int b = 0;
     b = a/0;
     printf("b is %d\n", b);
     printf("a is %f\n", a);
-
+    
     // Unspecified Behavior
 
     int d = 10;
