@@ -202,6 +202,6 @@ Standards:
 Behaviors:
 
     Locale Specific
-    Unspecified Behavior
-    Implementation Defined Behavior
-    Undefined Behavior
+    Unspecified Behavior - Evaluation of arguments in printf function
+    Implementation Defined Behavior -  Size of each type
+    Undefined Behavior - Infinity errors
