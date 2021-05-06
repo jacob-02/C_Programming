@@ -49,5 +49,5 @@ int main()
     // Unspecified Behavior
 
     int d = 10;
-    printf("%d %d %d", d--, d-- + ++d, ++d);
+    printf("%d %d %d", d++, d++ - --d, --d);
 }
