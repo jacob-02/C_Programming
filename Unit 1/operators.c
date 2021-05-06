@@ -56,16 +56,4 @@ int main()
 
     printf("%d\n", s);
     (x > y)?printf("%d\n", x):printf("%d\n", y);
-
-    f1() + f2();
-}
-
-int f1()
-{
-    printf("Hello");
-}
-
-int f2()
-{
-    printf(" World");
 }
