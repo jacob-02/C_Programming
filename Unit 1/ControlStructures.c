@@ -3,7 +3,15 @@ Control Structures:
     
     Looping structures:
         -while
-        -for    
+            Syntax:
+                while(expression):
+                {
+                    block statements;
+                }
+
+        -for
+            Syntax:
+
         -do while
     
     Selection Structures:
@@ -12,15 +20,29 @@ Control Structures:
         -else
         -nested if
         -switch
+
+
 */
 
 #include <stdio.h>
 
 int main()
 {
-    int n = 5;
-    while (--n)
+    // Finding the sum of 1 to n
+    
+    int n=10, i=1, sum=0;
+    
+    while (i<=n)         // Using while loops
     {
-        printf("%d", n);
+        sum = sum+i;
+        i++;
     }
+
+    printf("%d", sum);
+    sum = 0;
+
+    for(i = 0; i<=n; i++)
+        sum += i;
+    
+    printf("%d", sum);
 }
