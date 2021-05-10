@@ -1,0 +1,4 @@
+first.c: In function ‘main’:
+first.c:6:5: error: expected ‘;’ before ‘printf’
+     printf("Adding a commit\n");
+     ^~~~~~
