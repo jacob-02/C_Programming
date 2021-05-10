@@ -7,8 +7,11 @@
 
 int main()
 {
-    char ch, b;
-    printf("Enter the character\n");
-    scanf("%c", &ch);
-    printf("%c", ch);
+    char ch;
+    while ((ch =getchar()) != '\n')
+    {
+        putchar(ch);
+    }
+    printf("\n");
+    
 }
