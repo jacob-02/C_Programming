@@ -16,10 +16,9 @@ int main()
     char ch;
     ch = getc(stdin);
     putc(ch, printf("Hello"));
-    */
 
    char flag;
-    /* Our first simple C basic program */
+     Our first simple C basic program 
     printf("Hello World! ");
     printf("Do you want to continue Y or N");
     flag = getche(); // It waits for keyboard input.
@@ -32,4 +31,5 @@ int main()
        printf("You have entered No");
     }
     return 0;
+    */
 }
