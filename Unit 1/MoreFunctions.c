@@ -1,17 +1,19 @@
 #include <stdio.h>
- int display(int a, int b)
- {
-     printf("Hello world\n");
-     printf("%d %d\n", a, b);
-     return a+b;
- }
-
+int display(int x, int y);
+ 
  int main()
  {
      int a, b;
      a=10, b=20;
      int sum=display(a, b);
      printf("%d\n", sum);
+ }
+
+ int display(int a, int b)
+ {
+     printf("Hello world\n");
+     printf("%d %d\n", a, b);
+     return a+b;
  }
 
  /*
