@@ -2,22 +2,11 @@
 
 int main()
 {
-    int n = 29;
-    int s = 0;
-    
-    while (n > 0)
-        {
-            while (n > 0)
-            {
-                s = s + (n % 10);
-                n = n/10;
-            }
-            if (s >= 10)
-            {
-                n = s;
-                s = 0;
-            }  
-        } 
-    
-    printf("%d", s);
+    int n = 10;
+    for(int i=1; i<=n; i++)
+    {
+        for(int j=1; j<=i; j++)
+            printf("%d ", j);
+        printf("\n");
+    }
 }
