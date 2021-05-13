@@ -2,7 +2,7 @@
 
 int main()
 {
-    int q = 2345;
+    int q = 23451212;
     int i = 0;
     int r;
     int odd = 0, even = 0, zero = 0;
