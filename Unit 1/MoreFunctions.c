@@ -1,5 +1,6 @@
 #include <stdio.h>
 int display(int x, int y);
+void test(int t);
  
  int main()
  {
@@ -7,6 +8,11 @@ int display(int x, int y);
      a=10, b=20;
      int sum=display(a, b);
      printf("%d\n", sum);
+     int *p = &a;
+     test(200);
+     printf("a:%d *p:%d p:%d\n", a, *p, p);
+     what(p);
+     printf("a:%d *p:%d p:%d\n", a, *p, p);
  }
 
  int display(int a, int b)
@@ -16,6 +22,16 @@ int display(int x, int y);
      return a+b;
  }
 
+ void test(int t)
+ {
+     t = 200;
+ }
+
+void what(int* q)
+{
+    int temp = 100;
+    *q = temp;
+}
  /*
  An activation record is created whenever a function call is made
  Stack frame
