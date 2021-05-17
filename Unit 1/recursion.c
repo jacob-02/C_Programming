@@ -1,5 +1,5 @@
 /*
-A function calling itself. The same crap an in python
+A function calling itself. The same crap as in python
 */
 
 #include <stdio.h>
