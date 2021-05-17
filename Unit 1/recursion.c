@@ -7,13 +7,16 @@ int factorial(int n);
 
 int main()
 {
-    int n = 3;
+    int n = 4;
     int fact = factorial(n);
     printf("Factorial of %d is %d\n", n, fact);
 }
 
 int factorial(int n)
 {
-    return n = n*(n-1);
-    factorial;
+    if (n == 0)
+        return 1;
+    
+    else
+        return n*factorial(n-1);
 }
