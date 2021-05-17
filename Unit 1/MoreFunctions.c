@@ -1,6 +1,8 @@
 #include <stdio.h>
 int display(int x, int y);
 void test(int t);
+void what(int *q);
+int *one(int *x);
  
  int main()
  {
@@ -13,6 +15,9 @@ void test(int t);
      printf("a:%d *p:%d p:%d\n", a, *p, p);
      what(p);
      printf("a:%d *p:%d p:%d\n", a, *p, p);
+     int c = 1000;
+     p = one(&c);
+     printf("c:%d *p:%d p:%d\n", c, *p, p);
  }
 
  int display(int a, int b)
@@ -32,6 +37,18 @@ void what(int *q)
     int temp = 100;
     *q = temp;
 }
+
+int *one(int *x)
+{
+    int q = 1000;
+    return &q;      // => this is called a dangling pointer. the value points to a value that is not existent after the function is run
+}
+
+int *one(int *x)
+{
+    return x;
+}
+
  /*
  An activation record is created whenever a function call is made
  Stack frame
