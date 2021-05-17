@@ -27,7 +27,7 @@ void test(int t);
      t = 200;
  }
 
-void what(int* q)
+void what(int *q)
 {
     int temp = 100;
     *q = temp;
