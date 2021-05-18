@@ -14,3 +14,7 @@ int what(int n)
         return ((n&1) + what(n>>1));
     }
 }
+
+// WAP to find the power of a number using recursion
+
+// Find the sum of n numbers using recursive function
