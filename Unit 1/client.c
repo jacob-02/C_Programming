@@ -6,7 +6,9 @@
 #include "server.h"
 int main()
 {
-	printf("hey there, welcome to ");
-	greetings();
+    int a, b;
+	printf("Enter the numbers to add: ");
+    scanf("%d%d", &a, &b);
+	greetings(a, b);
 	return 0;
 }

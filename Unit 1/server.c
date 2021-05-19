@@ -1,7 +1,7 @@
 // This is server.c file
 #include "server.h"
 #include "stdio.h"
-void greetings()
+void greetings(int a, int b)
 {
-	printf("geeksforgeeks !\n");
+	printf("Sum is : %d\n", a+b);
 }
