@@ -1,31 +1,12 @@
 #include <stdio.h>
 
-int main()
+int main ()
 {
-    int q = 23451212;
     int i = 0;
-    int r;
-    int odd = 0, even = 0, zero = 0;
-
-    while (i == 0)
+     
+    for (printf("one\n"); i < 3 && printf("h\n"); i++)
     {
-        r = q%10;
-        q = q/10;
-        
-        if (r%2 == 0 && r != 0)
-            even++;
-        
-        else if (r%2 != 0)
-            odd++;
-        
-        else if (q == 0)
-            break;
-        
-        else
-            zero++;
+        printf("Hi!\n");
     }
-
-    printf("Odd :%d\n", odd);
-    printf("Even :%d\n", even);
-    printf("Zero :%d\n", zero);
+    
 }
