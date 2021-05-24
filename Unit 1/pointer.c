@@ -18,12 +18,12 @@ int main()
 
     int arr[] = {12, 33, 44};
     int *p2 = arr;  // No ampersand for array is already an address of the first value in the array
-    // printf("Before increment %p %d\n", p2, *p2);   // Prints the value of the first value in the array
-    // p2++;
-    // printf("After increment %p %d\n", p2, *p2);    // Prints the value of the second value of the array because of the increment of the address
+    printf("Before increment %p %d\n", p2, *p2);   // Prints the value of the first value in the array
+    p2++;
+    printf("After increment %p %d\n", p2, *p2);    // Prints the value of the second value of the array because of the increment of the address
 
-    // for (int i = 0; i < 3; i++)
-    //     printf("%d\t", *p2++);
+    for (int i = 0; i < 3; i++)
+        printf("%d\t", *p2++);
 
     for (int i = 0; i < 3; i++)
         printf("%d\t", (*p2)++);
