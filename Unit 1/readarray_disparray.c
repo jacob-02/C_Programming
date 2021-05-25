@@ -10,13 +10,13 @@ int main()
     disparr(a ,n);
 }
 
-void readarr(int a[], int n)
+void readarr(int *a, int n)
 {
     for(int i = 0; i < n; i++)
         scanf("%d", &a[i]);
 }
 
-void disparr(int a[], int n)
+void disparr(int *a, int n)
 {
     for(int i = 0; i < n; i++)
         printf("%d\n", a[i]);
