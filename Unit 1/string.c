@@ -2,7 +2,7 @@
 
 int main()
 {
-    char ch[] = "pesu";
-    printf("Sizeof character is %d\n", sizeof(ch)/sizeof(char));
-    printf("a:%c\n", ch);
+    char ch[] = {'p', 'e', 's', 'u', '\0'};
+    printf("Sizeof character is %ld\n", sizeof(ch)/sizeof(char));
+    printf("a:%s\n", ch);
 }
