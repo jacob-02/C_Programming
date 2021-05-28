@@ -18,4 +18,9 @@ int main()
     
     printf("String a  = %s\n", a);
     printf("String b  = %s\n", b);
+
+    char c[] = "University";
+    printf("Strcmp is %d\n", strcmp(a, c));
+    printf("Strcmp is %d\n", strcmp(a, b));
+    printf("Strcmp is %d\n", strcmp(b, c));
 }
