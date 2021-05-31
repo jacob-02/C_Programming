@@ -27,13 +27,22 @@ int main()
 //     return i;
 // }
 
+// int stringlength(char *a)
+// {
+//     if(!(*a))
+//         return 0;
+    
+//     else
+//         return(1+stringlength(++a));
+// }
+
 int stringlength(char *a)
 {
-    if(!(*a))
-        return 0;
+    char *b = a;
+    while(*b)
+        b++;
     
-    else
-        return(1+stringlength(++a));
+    return b-a;
 }
 
 
