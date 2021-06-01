@@ -5,7 +5,7 @@ void concatenate(char word[], char post[]);
 
 int main()
 {
-    char word[] = "Hello", post[] = "Jacob";
+    char word[] = "Hello", post[] = " Jacob";
     concatenate(word, post);
 }
 
