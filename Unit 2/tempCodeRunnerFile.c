@@ -1,1 +1,1 @@
-a[i] - b[i]
+fflush(stdin);
