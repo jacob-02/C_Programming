@@ -1,23 +1,13 @@
-#include <stdio.h>
-
-int factors(int n);
+# include <stdio.h>
 
 int main()
 {
-    int number, sum;
-    scanf("%d", &number);
+	int i, num, j;
+	printf ("Enter the number: ");
+	scanf ("%d", &num );
 
-    sum = factors(number);
+	for (i=1; i<num; i++)
+		j=j*i;    
 
-    printf("The sum of factors of the number is %d\n", sum);
-}
-
-int factors(int number)
-{
-    int sum = 0;
-    for(int i = 1; i <= number; i++)
-        if(number % i == 0)
-            sum += i;
-    
-    return sum;
+	printf("The factorial of %d is %d\n",num,j);
 }
