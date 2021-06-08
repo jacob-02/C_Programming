@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 struct student
 {
@@ -14,4 +15,8 @@ int main()
     printf("%p %p\n", &s2.roll_no, &s2.name);   // This is to show that the copy acquires a new memory and doesn't refer to the location of the variable from where it was copied
     printf("%d %s ", s1.roll_no, s1.name);
     printf("%p %p\n", &s1.roll_no, &s1.name);
+
+    strcpy(s2.name, "Ahmed");
+    printf("%d %s ", s2.roll_no, s2.name);
+    printf("%p %p\n", &s2.roll_no, &s2.name);
 }
