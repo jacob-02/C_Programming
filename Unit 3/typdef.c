@@ -1,16 +1,30 @@
 #include <stdio.h>
 
-struct dob
-{
-    int date, month, year;
-};
+// case 1
+// struct dob
+// {
+//     int date, month, year;
+// };
+
+// struct student
+// {
+//     int roll_no;
+//     char name[20];
+//     int marks;
+//     struct dob d1;
+// };
+
+// case 2
 
 struct student
 {
     int roll_no;
     char name[20];
     int marks;
-    struct dob d1;
+    struct dob
+    {
+        int date, month, year;
+    } d1;
 };
 
 int main()
