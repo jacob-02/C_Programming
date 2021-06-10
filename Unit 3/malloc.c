@@ -22,12 +22,12 @@ int main()
     else
     {
         printf("It is allocated\n");
-        printf("Enter the values\n");
+        // printf("Enter the values\n");
 
-        for (int i = 0; i < n; i++)
-        {
-            scanf("%d", (x+i));
-        }
+        // for (int i = 0; i < n; i++)
+        // {
+        //     scanf("%d", (x+i));
+        // }
 
         for (int i = 0; i < n; i++)
         {
