@@ -9,9 +9,14 @@ int main()
     printf("%d\n", *p);
 
     int *p1 = p;
+
+    printf("Before deallocating the memory\n");
+    printf("%p\n", p1);
     printf("%d\n", *p1);
 
     free(p1);
-    
+
+    printf("After deallocating the memory\n");
+    printf("%p\n", p1);
     printf("%d\n", *p1);
 }
