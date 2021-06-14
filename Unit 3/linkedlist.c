@@ -9,6 +9,7 @@ struct node
 
 typedef struct node node_t;
 void display(node_t *p);
+void free_list(node_t *p);
 
 int main()
 {
@@ -22,6 +23,10 @@ int main()
     s -> link -> link -> link = NULL;
 
     display(s);
+
+    free_list(s);
+
+    display(s);
 }
 
 void display(node_t *p)
@@ -30,6 +35,19 @@ void display(node_t *p)
     {
         printf("%d\n", p -> info);
         p = p -> link;
+    }
+    
+}
+
+void free_list(node_t *p)
+{
+    node_t *d = p;
+    while (p != NULL)
+    {
+        p = p -> link;
+        printf("The element is freed is %d\n", d -> info);
+        free(d);
+        d = p;
     }
     
 }
