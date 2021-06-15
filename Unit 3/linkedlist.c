@@ -3,37 +3,82 @@
 
 struct node
 {
-    int data;
-    struct node *next;
+    int data;           //Data of the node
+    struct node *next; //Address of the next node
 };
 
-struct node *head;
+void createNodeList(int n); // function to create the list
+void displayList();         // function to display the list
 
-void append()
+struct node *head, *temp, *newnode;
+
+int main()
 {
-    head = NULL;
-    struct node *newnode;
+    int n;
+    printf("\n\n Linked List : To create and display Singly Linked List :\n");
+    printf("-------------------------------------------------------------\n");
+
+    printf(" Input the number of nodes : ");
+    scanf("%d", &n);
+    createNodeList(n);
+    printf("\n Data entered in the list : \n");
+    displayList();
+    return 0;
+}
+void createNodeList(int n)
+{
+    int num, i;
     newnode = (struct node *)malloc(sizeof(struct node));
 
-    printf("Enter the data for the node\n");
-    scanf("%d", &newnode->data);
-
-    newnode -> next = 0;
-
-    if (head == NULL)
+    if (newnode == NULL) //check whether the head is NULL and if so no memory allocation
     {
-        head = newnode;
+        printf(" Memory can not be allocated.");
     }
-
     else
     {
-        struct node* ptr;
-        ptr = head;
+        // reads data for the node through keyboard
+
+        printf(" Input data for node 1 : ");
+        scanf("%d", &newnode->data);
         
-        while (ptr -> next != NULL)
+        newnode->next = NULL; // links the address field to NULL
+        temp = newnode;
+        // Creating n nodes and adding to linked list
+        for (i = 2; i <= n; i++)
         {
-            ptr = ptr -> next;
+            head = (struct node *)malloc(sizeof(struct node));
+            if (head == NULL)
+            {
+                printf(" Memory can not be allocated.");
+                break;
+            }
+            else
+            {
+                printf(" Input data for node %d : ", i);
+                scanf(" %d", &head->data);
+
+                head->next = NULL; // links the address field of head with NULL
+
+                temp->next = head; // links previous node i.e. tmp to the head
+                temp = temp->next;
+            }
         }
-        
+    }
+}
+void displayList()
+{
+    struct node *temp;
+    if (newnode == NULL)
+    {
+        printf(" List is empty.");
+    }
+    else
+    {
+        temp = newnode;
+        while (temp != NULL)
+        {
+            printf(" Data = %d\n", temp->data); // prints the data of current node
+            temp = temp->next;                 // advances the position of current node
+        }
     }
 }
