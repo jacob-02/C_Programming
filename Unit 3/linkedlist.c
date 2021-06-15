@@ -3,51 +3,37 @@
 
 struct node
 {
-    int info;
-    struct node* link;
+    int data;
+    struct node *next;
 };
 
-typedef struct node node_t;
-void display(node_t *p);
-void free_list(node_t *p);
+struct node *head;
 
-int main()
+void append()
 {
-    struct node* s;
-    s = (node_t*)malloc(sizeof(node_t));
-    s -> info = 100;
-    s -> link = (node_t*)malloc(sizeof(node_t));
-    s -> link -> info = 200;
-    s -> link -> link = (node_t*)malloc(sizeof(node_t));
-    s -> link -> link -> info = 300;
-    s -> link -> link -> link = NULL;
+    head = NULL;
+    struct node *newnode;
+    newnode = (struct node *)malloc(sizeof(struct node));
 
-    display(s);
+    printf("Enter the data for the node\n");
+    scanf("%d", &newnode->data);
 
-    free_list(s);
+    newnode -> next = 0;
 
-    display(s);
-}
-
-void display(node_t *p)
-{
-    while (p != NULL)
+    if (head == NULL)
     {
-        printf("%d\n", p -> info);
-        p = p -> link;
+        head = newnode;
     }
-    
-}
 
-void free_list(node_t *p)
-{
-    node_t *d = p;
-    while (p != NULL)
+    else
     {
-        p = p -> link;
-        printf("The element is freed is %d\n", d -> info);
-        free(d);
-        d = p;
+        struct node* ptr;
+        ptr = head;
+        
+        while (ptr -> next != NULL)
+        {
+            ptr = ptr -> next;
+        }
+        
     }
-    
 }
