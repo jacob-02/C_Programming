@@ -1,7 +1,66 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+
+void structure();
+void normal();
+
+struct emp
+{
+    int no;
+    char name[20];
+    float salary;
+};
+
+struct emp* ptr;
+
+void structure()
+{
+    ptr = (struct emp *)realloc(ptr, 5 * sizeof(struct emp));
+
+    if (ptr == NULL)
+        printf("There is no memory left for allocation\n");
+
+    else
+    {
+        for (int i = 0; i < 6; i++)
+        {
+            printf("Enter the employee details\n");
+            scanf("%d%s%f", &(ptr+i)->no, (ptr+i)->name, &(ptr+i)->salary);
+        }
+
+        for (int i = 0; i < 6; i++)
+        {
+
+            printf("The employee details\n");
+            printf("%d\n%s\n%f\n", (ptr+i)->no, (ptr+i)->name, (ptr+i)->salary);
+        }
+    }
+
+    ptr = (struct emp *)realloc(ptr, 6 * sizeof(struct emp));
+
+    if (ptr == NULL)
+        printf("There is no memory left for allocation\n");
+
+    else
+    {
+        for (int i = 0; i < 6; i++)
+        {
+            printf("Enter the employee details\n");
+            scanf("%d%s%f", &(ptr+i)->no, (ptr+i)->name, &(ptr+i)->salary);
+        }
+
+        for (int i = 0; i < 6; i++)
+        {
+
+            printf("The employee details\n");
+            printf("%d\n%s\n%f\n", (ptr+i)->no, (ptr+i)->name, (ptr+i)->salary);
+        }
+    }
+}
+
+
+void normal()
 {
     int *p = (int *)malloc(10 * sizeof(int));
 
@@ -38,4 +97,9 @@ int main()
         }
         
     }
+}
+
+int main()
+{
+    structure();
 }

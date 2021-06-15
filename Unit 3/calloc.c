@@ -26,13 +26,13 @@ void structure()
 
     else
     {
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i <= n; i++)
         {
             printf("Enter the employee details\n");
             scanf("%d%s%f", &(ptr+i)->no, (ptr+i)->name, &(ptr+i)->salary);
         }
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i <= n; i++)
         {
 
             printf("The employee details\n");
