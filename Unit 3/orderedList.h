@@ -12,5 +12,7 @@ struct mylist
 };
 
 typedef struct mylist mylist_t;
-void initialize_list()
-
+void initialize_list(mylist_t*);
+void insert_list(mylist_t*, int);
+void free_list(mylist_t*);
+void display(node_t *p);
