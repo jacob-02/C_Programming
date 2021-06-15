@@ -57,6 +57,8 @@ void structure()
             printf("%d\n%s\n%f\n", (ptr+i)->no, (ptr+i)->name, (ptr+i)->salary);
         }
     }
+
+    free(ptr);
 }
 
 
