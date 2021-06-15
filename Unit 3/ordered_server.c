@@ -54,3 +54,26 @@ void display(mylist_t *p_list)
             p = p->link;
         }
 }
+
+void free_list(mylist_t* p_list)
+{
+    node_t* p = p_list -> head;
+
+    if(p == NULL)
+    {
+        printf("The list is emptied\n");
+    }
+
+    else
+    {
+        node_t *temp = p;
+        while (p != NULL)
+        {
+            free(temp);
+            printf("Deleted node has info %d", p -> info);
+            temp = p;
+            p = p -> link;
+        }
+        
+    }
+}

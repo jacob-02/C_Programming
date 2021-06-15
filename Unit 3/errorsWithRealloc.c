@@ -32,5 +32,4 @@ int main()
         printf("%d\n", *(p2 + i));
     
     free(p);
-    free(p);
 }
