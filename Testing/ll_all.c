@@ -39,8 +39,17 @@ void insert(int element)
             previous = present;
             present = present->link;
         }
-        temp->link = present;
-        previous->link = temp;
+        if (previous == NULL)
+        {
+            temp->link = present;
+            head = temp;
+        }
+
+        else
+        {
+            temp->link = present;
+            previous->link = temp;
+        }
     }
 }
 
@@ -54,8 +63,8 @@ int main()
     for (int i = 0; i < n; i++)
     {
         printf("Enter the element\n");
-        scanf("%d", &n);
+        scanf("%d", &element);
         insert(element);
-        display(head);
     }
+    display(head);
 }
