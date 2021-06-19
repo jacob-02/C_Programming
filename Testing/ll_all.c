@@ -53,6 +53,26 @@ void insert(int element)
     }
 }
 
+void free_list(node_t * p)
+{
+    if (p == NULL)
+    {
+        printf("No node is available in the list to free it\n");
+    }
+    else
+    {
+        while (p != NULL)
+        {
+            node_t * temp = p;
+            p = p->link;
+            printf("The node is deleted %d\n", temp->data);
+            free(temp);
+        }
+        
+    }
+    
+}
+
 int main()
 {
     head = NULL;
@@ -67,4 +87,5 @@ int main()
         insert(element);
     }
     display(head);
+    free_list(head);
 }
