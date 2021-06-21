@@ -1,13 +1,23 @@
 #include <stdio.h>
 
-void swap(int *a, int *b)
+struct student
 {
-    int temp = *a;
-    *a = *b;
-    *b = temp;
+    char *name;
+};
+struct student s;
+struct student fun(void)
+{
+    s.name = "newton";
+    printf("%s\n", s.name);
+    s.name = "alan";
+    return s;
 }
 int main()
 {
+    struct student m = fun();
+    printf("%s\n", m.name);
+    m.name = "turing";
+    printf("%s\n", s.name);
     // int a = 100;
     // int b = 200;
     // printf("before call a is %d and b is %d\n", a, b);
@@ -22,7 +32,15 @@ int main()
     // printf("%d\n", sizeof(p));
     // printf("%d %d\n", sizeof(*p), sizeof(arr));
 
-    typedef int ag;
-    ag age = 10;
-    printf("%d\n", age);
+    // typedef int ag;
+    // ag age = 10;
+    // printf("%d\n", age);
+}
+
+
+void swap(int *a, int *b)
+{
+    int temp = *a;
+    *a = *b;
+    *b = temp;
 }
