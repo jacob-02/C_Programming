@@ -1,25 +1,3 @@
-// #include <stdio.h>
-
-// int main()
-// {
-//     FILE *fp = fopen("test.txt", "r");
-
-//     if (fp == NULL)
-//     {
-//         printf("Error in opening the file\n");
-//     }
-//     else
-//     {
-//         char ch;
-//         while ((ch = fgetc(fp) != EOF))
-//         {
-//             fputc(ch, stdout);
-//         }
-//         fclose(fp);
-//     }
-    
-// }
-
 #include <stdio.h>
  
 int main ()
