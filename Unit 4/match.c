@@ -19,7 +19,7 @@ int main ()
         {
             char* val = strtok(line, ",");
             val = strtok(NULL, ",");
-            if (strcmp(val, "2") == 0) //returns a pointer to the first token in the string. If no token, null is returned
+            if (strcmp(val, "Eden Gardens") != 0) //returns a pointer to the first token in the string. If no token, null is returned
             {
                 count++;
             }
