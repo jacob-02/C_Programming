@@ -5,27 +5,29 @@ int main ()
 {
     // open the file
     FILE *fp = fopen("Match.csv","r");
- 
+    char line[5000];
+
+    int count = 0;
+
     // Return if could not open file
     if (fp == NULL)
       return 0;
-    
-    char n[] = "3";
 
-
-    // do
-    // {
-        // Taking input single character at a time
-        char c = fgetc(fp);
- 
-        // Checking for list ending
-        // if (c == n)
-            // break;
- 
-        printf("%c", c);
-    // }  while(1);
+    else
+    {
+        while (fgets(line, 5000, fp) != NULL)
+        {
+            char* val = strtok(line, ",");
+            val = strtok(NULL, ",");
+            if (strcmp(val, "2") == 0) //returns a pointer to the first token in the string. If no token, null is returned
+            {
+                count++;
+            }
+        }
+        
+    }
  
     fclose(fp);
 
-    printf("\n");
+    printf("The number of matches in fielding is %d\n", count);
 }
