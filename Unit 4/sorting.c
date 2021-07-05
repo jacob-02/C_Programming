@@ -27,7 +27,7 @@ int main()
     while (fgets(a, 200, fr))
     {
         item = strtok(a, ",");
-        s[i].roll = atoi(item);
+        s[i].roll = atoi(item); // the function is used to convert a string argument to an integer.
         item = strtok(NULL, ",");
         strcpy(s[i].name, item);
         i++;
