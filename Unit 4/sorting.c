@@ -79,9 +79,7 @@ int main()
 void init_ptr(struct student s[], struct student *p[], int n)
 {
     for (int i = 0; i < n; ++i)
-    {
         p[i] = &s[i];
-    }
 }
 
 void swap(struct student **lhs, struct student **rhs)
@@ -93,10 +91,7 @@ void swap(struct student **lhs, struct student **rhs)
 void disp(struct student *p[], int n)
 {
     for (int i = 0; i < n; ++i)
-    {
-        //printf("%s %d\n", (s+i)->name, (s+i)->roll);
         printf("%d %s\n", p[i]->roll, p[i]->name);
-    }
 }
 void selection_sort_roll_no(struct student *s[], int n)
 {
@@ -106,11 +101,8 @@ void selection_sort_roll_no(struct student *s[], int n)
         printf("in for\n");
         pos = i;
         for (j = i + 1; j < n; j++)
-        {
             if ((s[pos]->roll) > (s[j]->roll))
-                // compare the roll numbers using pointers to sort the record
                 pos = j;
-        }
         if (pos != i)
             swap(&s[pos], &s[i]); // Swap the pointers not the structures
     }
@@ -122,11 +114,8 @@ void selection_sort_names(struct student *s[], int n)
     {
         pos = i;
         for (j = i + 1; j < n; j++)
-        {
             if (strcmp(s[pos]->name, s[j]->name) > 0)
-                // compare the names using pointers to sort the record
                 pos = j;
-        }
         if (pos != i)
             swap(&s[pos], &s[i]);
     }
