@@ -2,7 +2,7 @@
 
 struct sample
 {
-    unsigned int a:1;
+    unsigned int a:3; // Each digit gives 2 values that can be added. 1 gives 0,1. 2 gives 0 to 3 and so on
     int b:1;
     // double c:3;  INVALID
 };
