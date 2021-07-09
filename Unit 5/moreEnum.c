@@ -3,7 +3,9 @@
 
 enum sample
 {
-    abc = INT_MAX
+    abcde,
+    abc,
+    abcd //Default first value starts at 1
 };
 
 // enum examples
@@ -13,5 +15,5 @@ enum sample
 
 int main()
 {
-    printf("%d\n", abc);
+    printf("%d %d %d\n", abc, abcd, abcde);
 }
