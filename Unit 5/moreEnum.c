@@ -3,9 +3,9 @@
 
 enum sample
 {
-    abcde,
+    abcde = 2,
     abc,
-    abcd //Default first value starts at 1
+    abcd = 100 //Default first value starts at 1
 };
 
 // enum examples
