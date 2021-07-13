@@ -1,0 +1,757 @@
+Batting Team team1 - Bowling Team team2
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Rising Pune Supergiant
+Batting Team Gujarat Lions - Bowling Team Kolkata Knight Riders
+Batting Team Rising Pune Supergiant - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiant
+Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Rising Pune Supergiant - Bowling Team Gujarat Lions
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Gujarat Lions - Bowling Team Mumbai Indians
+Batting Team Rising Pune Supergiant - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Gujarat Lions
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Rising Pune Supergiant
+Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Rising Pune Supergiant - Bowling Team Mumbai Indians
+Batting Team Rising Pune Supergiant - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Rising Pune Supergiant - Bowling Team Royal Challengers Bangalore
+Batting Team Gujarat Lions - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Gujarat Lions - Bowling Team Rising Pune Supergiant
+Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Rising Pune Supergiant
+Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Rising Pune Supergiant - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiant
+Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Rising Pune Supergiant
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Rising Pune Supergiant - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Mumbai Indians - Bowling Team Rising Pune Supergiant
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
+Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Kochi Tuskers Kerala - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Pune Warriors
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Kochi Tuskers Kerala - Bowling Team Pune Warriors
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Kochi Tuskers Kerala
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Kochi Tuskers Kerala
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Pune Warriors - Bowling Team Mumbai Indians
+Batting Team Kochi Tuskers Kerala - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+Batting Team Kochi Tuskers Kerala - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Pune Warriors - Bowling Team Chennai Super Kings
+Batting Team Deccan Chargers - Bowling Team Kochi Tuskers Kerala
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+Batting Team Delhi Daredevils - Bowling Team Kochi Tuskers Kerala
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Pune Warriors - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Kochi Tuskers Kerala
+Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Pune Warriors
+Batting Team Kochi Tuskers Kerala - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Kochi Tuskers Kerala - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Pune Warriors
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Deccan Chargers - Bowling Team Pune Warriors
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Kochi Tuskers Kerala - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Rajasthan Royals - Bowling Team Kochi Tuskers Kerala
+Batting Team Pune Warriors - Bowling Team Deccan Chargers
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Kochi Tuskers Kerala
+Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Pune Warriors
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Pune Warriors - Bowling Team Mumbai Indians
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+Batting Team Pune Warriors - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Deccan Chargers - Bowling Team Pune Warriors
+Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Deccan Chargers - Bowling Team Pune Warriors
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Pune Warriors
+Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+Batting Team Kolkata Knight Riders - Bowling Team Pune Warriors
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Pune Warriors - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Pune Warriors
+Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Pune Warriors
+Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Pune Warriors
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Pune Warriors
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Pune Warriors
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Pune Warriors - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Pune Warriors
+Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Pune Warriors
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Pune Warriors - Bowling Team Rajasthan Royals
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Pune Warriors
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Pune Warriors - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Rising Pune Supergiants
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Rising Pune Supergiants - Bowling Team Gujarat Lions
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Gujarat Lions
+Batting Team Rising Pune Supergiants - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Rising Pune Supergiants
+Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+Batting Team Rising Pune Supergiants - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Rising Pune Supergiants
+Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Rising Pune Supergiants - Bowling Team Gujarat Lions
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+Batting Team Rising Pune Supergiants - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiants
+Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+Batting Team Rising Pune Supergiants - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+Batting Team Kolkata Knight Riders - Bowling Team Gujarat Lions
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Rising Pune Supergiants
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+Batting Team Rising Pune Supergiants - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiants
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Gujarat Lions
+Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+Batting Team Kings XI Punjab - Bowling Team Rising Pune Supergiants
+Batting Team Mumbai Indians - Bowling Team Gujarat Lions
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Gujarat Lions - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+Batting Team Delhi Capitals - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Delhi Capitals - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Capitals
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Delhi Capitals
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Delhi Capitals - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Delhi Capitals
+Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+Batting Team Kolkata Knight Riders - Bowling Team Delhi Capitals
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+Batting Team Delhi Capitals - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+Batting Team Mumbai Indians - Bowling Team Delhi Capitals
+Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+Batting Team Kings XI Punjab - Bowling Team Delhi Capitals
+Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+Batting Team Rajasthan Royals - Bowling Team Delhi Capitals
+Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+Batting Team Delhi Capitals - Bowling Team Royal Challengers Bangalore
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+Batting Team Chennai Super Kings - Bowling Team Delhi Capitals
+Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+Batting Team Rajasthan Royals - Bowling Team Delhi Capitals
+Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+Batting Team Sunrisers Hyderabad - Bowling Team Delhi Capitals
+Batting Team Delhi Capitals - Bowling Team Chennai Super Kings
+Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
