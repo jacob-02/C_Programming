@@ -4,13 +4,24 @@
 
 int main()
 {
-    char str[] = "This is the string that I am splitting according to the space";
-    char *token;
-    token = strtok(str, " ");
-    // printf("%s\n", token);
-    while (token != NULL)
+    FILE *fp = fopen("Match.csv", "r");
+
+    if (fp == NULL)
     {
-        printf("%s\n", token);
-        token = strtok(NULL, " ");
+        printf("The file cannot be opened\n");
+    }
+    else
+    {
+        char buffer[500];
+        int count = 0;
+
+        while ((fgets(buffer, 500, fp)) != NULL)
+        {
+            char *value = strtok(buffer, ",");
+            char *date = strtok(NULL, ",");
+
+            printf("%s\n", date);
+        }
+        fclose(fp);
     }
 }
