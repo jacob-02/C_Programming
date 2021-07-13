@@ -27,7 +27,7 @@ void sort(int a[], int n)
 {
     int min, i, j;
 
-    for (i = 0; i < n; i++)
+    for (i = 0; i < n - 1; i++)
     {
         min = i;
         for (j = i + 1; j < n; j++)
@@ -37,9 +37,9 @@ void sort(int a[], int n)
                 min = j;
             }
         }
-        if (min != j)
+        if (min != i)
         {
-            swap(&a[min], &a[j]);
+            swap(&a[min], &a[i]);
         }
     }
 }
@@ -59,4 +59,6 @@ int main()
     printf("\nAfter\n");
     sort(a, n);
     display(a, n);
+    
+    printf("\n");
 }
