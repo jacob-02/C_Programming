@@ -98,7 +98,6 @@ void selection_sort_roll_no(struct student *s[], int n)
     int i, pos, j;
     for (i = 0; i < n - 1; i++)
     {
-        printf("in for\n");
         pos = i;
         for (j = i + 1; j < n; j++)
             if ((s[pos]->roll) > (s[j]->roll))
