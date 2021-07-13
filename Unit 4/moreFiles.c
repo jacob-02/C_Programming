@@ -21,14 +21,37 @@
 //     }
 // }
 
+// #include <stdio.h>
+
+// int main()
+// {
+//     FILE *fp1 = fopen("random.txt", "r");
+//     FILE *fp2 = fopen("data.txt", "w");
+
+//     char buffer[500];
+
+//     if (fp1 == NULL || fp2 == NULL)
+//     {
+//         printf("The file has some issues\n");
+//     }
+
+//     else
+//     {
+//         while (fgets(buffer, 500, fp1) != NULL)
+//         {
+//             fputs(buffer, fp2);
+//         }
+//         fclose(fp1);
+//         fclose(fp2);
+//     }
+// }
+
 #include <stdio.h>
 
 int main()
 {
     FILE *fp1 = fopen("random.txt", "r");
     FILE *fp2 = fopen("data.txt", "w");
-
-    char buffer[500];
 
     if (fp1 == NULL || fp2 == NULL)
     {
@@ -37,10 +60,9 @@ int main()
 
     else
     {
-        while (fgets(buffer, 500, fp1) != NULL)
-        {
-            fputs(buffer, fp2);
-        }
+        int a;
+        fscanf(fp1, "%d", &a);
+        fprintf(fp2, "%d\n", a);
         fclose(fp1);
         fclose(fp2);
     }
