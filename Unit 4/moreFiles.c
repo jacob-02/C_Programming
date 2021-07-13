@@ -60,10 +60,17 @@ int main()
 
     else
     {
-        int a;
-        fscanf(fp1, "%d", &a);
-        fprintf(fp2, "%d\n", a);
+        int a, temp = 0, count = 0;
+
+        while (!feof(fp1))
+        {
+            fscanf(fp1, "%d", &a);
+            temp = temp + a;
+            fprintf(fp2, "%d    ", a);
+            count++;
+        }
         fclose(fp1);
         fclose(fp2);
+        printf("The sum of the %d numbers is %d\n", count, temp);
     }
 }
