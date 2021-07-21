@@ -1,758 +1,757 @@
-season ID: Batting Team team2 - Bowling Team toss_winner
-2017 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Rising Pune Supergiant
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Rising Pune Supergiant
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2017 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2017 ID: Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2017 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Rising Pune Supergiant
-2017 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2017 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2017 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Mumbai Indians - Bowling Team Gujarat Lions
-2017 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Rising Pune Supergiant
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Rising Pune Supergiant
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2017 ID: Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Delhi Daredevils
-2017 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Rising Pune Supergiant
-2017 ID: Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2017 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2017 ID: Batting Team Rising Pune Supergiant - Bowling Team Mumbai Indians
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
-2008 ID: Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
-2008 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2008 ID: Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
-2008 ID: Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
-2008 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2008 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
-2008 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2008 ID: Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
-2008 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2008 ID: Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
-2008 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2009 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
-2009 ID: Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Mumbai Indians - Bowling Team Deccan Chargers
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
-2009 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2009 ID: Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2009 ID: Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
-2009 ID: Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Mumbai Indians - Bowling Team Deccan Chargers
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2009 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
-2009 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2009 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2009 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2009 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2009 ID: Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2009 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2009 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2009 ID: Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2009 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2010 ID: Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
-2010 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2010 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2010 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2010 ID: Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
-2010 ID: Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2010 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2010 ID: Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
-2010 ID: Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Deccan Chargers - Bowling Team Mumbai Indians
-2010 ID: Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
-2010 ID: Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2010 ID: Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
-2010 ID: Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
-2010 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2010 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2010 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
-2010 ID: Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
-2010 ID: Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
-2010 ID: Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
-2010 ID: Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Pune Warriors - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Pune Warriors - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
-2011 ID: Batting Team Mumbai Indians - Bowling Team Pune Warriors
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2011 ID: Batting Team Chennai Super Kings - Bowling Team Pune Warriors
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2011 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Pune Warriors - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2011 ID: Batting Team Pune Warriors - Bowling Team Deccan Chargers
-2011 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2011 ID: Batting Team Mumbai Indians - Bowling Team Deccan Chargers
-2011 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Kochi Tuskers Kerala
-2011 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Kochi Tuskers Kerala - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2011 ID: Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
-2011 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2011 ID: Batting Team Pune Warriors - Bowling Team Delhi Daredevils
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2011 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2011 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2011 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2011 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2011 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Pune Warriors
-2012 ID: Batting Team Mumbai Indians - Bowling Team Deccan Chargers
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
-2012 ID: Batting Team Pune Warriors - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
-2012 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2012 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Pune Warriors
-2012 ID: Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Pune Warriors - Bowling Team Deccan Chargers
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Pune Warriors - Bowling Team Deccan Chargers
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Pune Warriors - Bowling Team Mumbai Indians
-2012 ID: Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Rajasthan Royals - Bowling Team Pune Warriors
-2012 ID: Batting Team Deccan Chargers - Bowling Team Deccan Chargers
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2012 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
-2012 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Pune Warriors - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2012 ID: Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
-2012 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2012 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2012 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2013 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Pune Warriors
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2013 ID: Batting Team Pune Warriors - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
-2013 ID: Batting Team Pune Warriors - Bowling Team Mumbai Indians
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Pune Warriors
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2013 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2013 ID: Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2013 ID: Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Pune Warriors - Bowling Team Pune Warriors
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
-2013 ID: Batting Team Pune Warriors - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Pune Warriors - Bowling Team Royal Challengers Bangalore
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Pune Warriors
-2013 ID: Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2013 ID: Batting Team Mumbai Indians - Bowling Team Pune Warriors
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2013 ID: Batting Team Delhi Daredevils - Bowling Team Pune Warriors
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
-2013 ID: Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
-2013 ID: Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
-2013 ID: Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
-2013 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2014 ID: Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team field
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team bat
-2014 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2014 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2014 ID: Batting Team Rajasthan Royals - Bowling Team field
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Sunrisers Hyderabad - Bowling Team bat
-2014 ID: Batting Team Mumbai Indians - Bowling Team bat
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
-2014 ID: Batting Team Kings XI Punjab - Bowling Team field
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Mumbai Indians - Bowling Team field
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2014 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
-2014 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2014 ID: Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2014 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2014 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2014 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2014 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2014 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2014 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2014 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2014 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2015 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2015 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2015 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2015 ID: Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2015 ID: Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2015 ID: Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
-2015 ID: Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
-2015 ID: Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
-2015 ID: Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
-2015 ID: Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
-2015 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
-2015 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2015 ID: Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
-2015 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2015 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Mumbai Indians
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Gujarat Lions - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Kings XI Punjab - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Gujarat Lions - Bowling Team Royal Challengers Bangalore
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2016 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2016 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Rising Pune Supergiants
-2016 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2016 ID: Batting Team Rising Pune Supergiants - Bowling Team Kings XI Punjab
-2016 ID: Batting Team Gujarat Lions - Bowling Team Gujarat Lions
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2016 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2016 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2016 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2016 ID: Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
-2018 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Delhi Daredevils - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2018 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
-2018 ID: Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2018 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2018 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2018 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2019 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Delhi Capitals
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2019 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2019 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2019 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Delhi Capitals - Bowling Team Mumbai Indians
-2019 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Sunrisers Hyderabad
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Royal Challengers Bangalore - Bowling Team Delhi Capitals
-2019 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2019 ID: Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
-2019 ID: Batting Team Kolkata Knight Riders - Bowling Team Kolkata Knight Riders
-2019 ID: Batting Team Delhi Capitals - Bowling Team Rajasthan Royals
-2019 ID: Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
-2019 ID: Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
-2019 ID: Batting Team Mumbai Indians - Bowling Team Mumbai Indians
-2019 ID: Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Delhi Capitals - Bowling Team Delhi Capitals
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Chennai Super Kings
-2019 ID: Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
-2009 ID: Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : id Batting Team team1 - Bowling Team team2
+ID : 1 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 2 Batting Team Mumbai Indians - Bowling Team Rising Pune Supergiant
+ID : 3 Batting Team Gujarat Lions - Bowling Team Kolkata Knight Riders
+ID : 4 Batting Team Rising Pune Supergiant - Bowling Team Kings XI Punjab
+ID : 5 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 6 Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+ID : 7 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 8 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 9 Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiant
+ID : 10 Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+ID : 11 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 12 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 13 Batting Team Rising Pune Supergiant - Bowling Team Gujarat Lions
+ID : 14 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 15 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 16 Batting Team Gujarat Lions - Bowling Team Mumbai Indians
+ID : 17 Batting Team Rising Pune Supergiant - Bowling Team Royal Challengers Bangalore
+ID : 18 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 19 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 20 Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+ID : 21 Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+ID : 22 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 23 Batting Team Kolkata Knight Riders - Bowling Team Gujarat Lions
+ID : 24 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 25 Batting Team Sunrisers Hyderabad - Bowling Team Rising Pune Supergiant
+ID : 26 Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+ID : 27 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 28 Batting Team Rising Pune Supergiant - Bowling Team Mumbai Indians
+ID : 29 Batting Team Rising Pune Supergiant - Bowling Team Kolkata Knight Riders
+ID : 30 Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+ID : 31 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 32 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 33 Batting Team Rising Pune Supergiant - Bowling Team Royal Challengers Bangalore
+ID : 34 Batting Team Gujarat Lions - Bowling Team Mumbai Indians
+ID : 35 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 36 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 37 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 38 Batting Team Gujarat Lions - Bowling Team Rising Pune Supergiant
+ID : 39 Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+ID : 40 Batting Team Kolkata Knight Riders - Bowling Team Rising Pune Supergiant
+ID : 41 Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+ID : 42 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 43 Batting Team Rising Pune Supergiant - Bowling Team Sunrisers Hyderabad
+ID : 44 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 45 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 46 Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+ID : 47 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 48 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 49 Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+ID : 50 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 51 Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiant
+ID : 52 Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+ID : 53 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 54 Batting Team Kings XI Punjab - Bowling Team Rising Pune Supergiant
+ID : 55 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 56 Batting Team Rising Pune Supergiant - Bowling Team Mumbai Indians
+ID : 57 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 58 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 59 Batting Team Mumbai Indians - Bowling Team Rising Pune Supergiant
+ID : 60 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 61 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 62 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 63 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 64 Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
+ID : 65 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 66 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 67 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 68 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 69 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 70 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 71 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 72 Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+ID : 73 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 74 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 75 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 76 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 77 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 78 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 79 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 80 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 81 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 82 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 83 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 84 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 85 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 86 Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+ID : 87 Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+ID : 88 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 89 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 90 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 91 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 92 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 93 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 94 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 95 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 96 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 97 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 98 Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
+ID : 99 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 100 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 101 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 102 Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+ID : 103 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 104 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 105 Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
+ID : 106 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 107 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 108 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 109 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 110 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 111 Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
+ID : 112 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 113 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 114 Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
+ID : 115 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 116 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 117 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 118 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 119 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 120 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 121 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 122 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 123 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 124 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 125 Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+ID : 126 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 127 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 128 Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+ID : 129 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 130 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 131 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 132 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 133 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 134 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 135 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 136 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 137 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 138 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 139 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 140 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 141 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 142 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 143 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 144 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 145 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 146 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 147 Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+ID : 148 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 149 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 150 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 151 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 152 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 153 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 154 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 155 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 156 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 157 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 158 Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
+ID : 159 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 160 Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+ID : 161 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 162 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 163 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 164 Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
+ID : 165 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 166 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 167 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 168 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 169 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 170 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 171 Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
+ID : 172 Batting Team Delhi Daredevils - Bowling Team Deccan Chargers
+ID : 173 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 174 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 175 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 176 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 177 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 178 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 179 Batting Team Deccan Chargers - Bowling Team Chennai Super Kings
+ID : 180 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 181 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 182 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 183 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 184 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 185 Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+ID : 186 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 187 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 188 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 189 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 190 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 191 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 192 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 193 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 194 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 195 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 196 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 197 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 198 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 199 Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+ID : 200 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 201 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 202 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 203 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 204 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 205 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 206 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 207 Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+ID : 208 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 209 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 210 Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
+ID : 211 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 212 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 213 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 214 Batting Team Royal Challengers Bangalore - Bowling Team Deccan Chargers
+ID : 215 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 216 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 217 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 218 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 219 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 220 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 221 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 222 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 223 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 224 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 225 Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
+ID : 226 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 227 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 228 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 229 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 230 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 231 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 232 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 233 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 234 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 235 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 236 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 237 Batting Team Kochi Tuskers Kerala - Bowling Team Royal Challengers Bangalore
+ID : 238 Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+ID : 239 Batting Team Kings XI Punjab - Bowling Team Pune Warriors
+ID : 240 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 241 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 242 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 243 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 244 Batting Team Kochi Tuskers Kerala - Bowling Team Pune Warriors
+ID : 245 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 246 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 247 Batting Team Mumbai Indians - Bowling Team Kochi Tuskers Kerala
+ID : 248 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 249 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 250 Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+ID : 251 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 252 Batting Team Chennai Super Kings - Bowling Team Kochi Tuskers Kerala
+ID : 253 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 254 Batting Team Pune Warriors - Bowling Team Mumbai Indians
+ID : 255 Batting Team Kochi Tuskers Kerala - Bowling Team Kolkata Knight Riders
+ID : 256 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 257 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 258 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 259 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 260 Batting Team Mumbai Indians - Bowling Team Deccan Chargers
+ID : 261 Batting Team Kochi Tuskers Kerala - Bowling Team Rajasthan Royals
+ID : 262 Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+ID : 263 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 264 Batting Team Pune Warriors - Bowling Team Chennai Super Kings
+ID : 265 Batting Team Deccan Chargers - Bowling Team Kochi Tuskers Kerala
+ID : 266 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 267 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 268 Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+ID : 269 Batting Team Delhi Daredevils - Bowling Team Kochi Tuskers Kerala
+ID : 270 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 271 Batting Team Pune Warriors - Bowling Team Rajasthan Royals
+ID : 272 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 273 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 274 Batting Team Delhi Daredevils - Bowling Team Kochi Tuskers Kerala
+ID : 275 Batting Team Kolkata Knight Riders - Bowling Team Deccan Chargers
+ID : 276 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 277 Batting Team Mumbai Indians - Bowling Team Pune Warriors
+ID : 278 Batting Team Kochi Tuskers Kerala - Bowling Team Kolkata Knight Riders
+ID : 279 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 280 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 281 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 282 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 283 Batting Team Kochi Tuskers Kerala - Bowling Team Royal Challengers Bangalore
+ID : 284 Batting Team Kings XI Punjab - Bowling Team Pune Warriors
+ID : 285 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 286 Batting Team Deccan Chargers - Bowling Team Pune Warriors
+ID : 287 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 288 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 289 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 290 Batting Team Kochi Tuskers Kerala - Bowling Team Kings XI Punjab
+ID : 291 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 292 Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+ID : 293 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 294 Batting Team Rajasthan Royals - Bowling Team Kochi Tuskers Kerala
+ID : 295 Batting Team Pune Warriors - Bowling Team Deccan Chargers
+ID : 296 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 297 Batting Team Chennai Super Kings - Bowling Team Kochi Tuskers Kerala
+ID : 298 Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
+ID : 299 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 300 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 301 Batting Team Delhi Daredevils - Bowling Team Pune Warriors
+ID : 302 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 303 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 304 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 305 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 306 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 307 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 308 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 309 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 310 Batting Team Pune Warriors - Bowling Team Mumbai Indians
+ID : 311 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 312 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 313 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 314 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 315 Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+ID : 316 Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+ID : 317 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 318 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 319 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 320 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 321 Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+ID : 322 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 323 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 324 Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+ID : 325 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 326 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 327 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 328 Batting Team Deccan Chargers - Bowling Team Rajasthan Royals
+ID : 329 Batting Team Pune Warriors - Bowling Team Royal Challengers Bangalore
+ID : 330 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 331 Batting Team Deccan Chargers - Bowling Team Delhi Daredevils
+ID : 332 Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+ID : 333 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 334 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 335 Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+ID : 336 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 337 Batting Team Deccan Chargers - Bowling Team Kolkata Knight Riders
+ID : 338 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 339 Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+ID : 340 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 341 Batting Team Deccan Chargers - Bowling Team Pune Warriors
+ID : 342 Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+ID : 343 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 344 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 345 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 346 Batting Team Deccan Chargers - Bowling Team Mumbai Indians
+ID : 347 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 348 Batting Team Deccan Chargers - Bowling Team Pune Warriors
+ID : 349 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 350 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 351 Batting Team Mumbai Indians - Bowling Team Pune Warriors
+ID : 352 Batting Team Chennai Super Kings - Bowling Team Deccan Chargers
+ID : 353 Batting Team Kolkata Knight Riders - Bowling Team Pune Warriors
+ID : 354 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 355 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 356 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 357 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 358 Batting Team Pune Warriors - Bowling Team Rajasthan Royals
+ID : 359 Batting Team Kings XI Punjab - Bowling Team Deccan Chargers
+ID : 360 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 361 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 362 Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+ID : 363 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 364 Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+ID : 365 Batting Team Rajasthan Royals - Bowling Team Pune Warriors
+ID : 366 Batting Team Deccan Chargers - Bowling Team Kings XI Punjab
+ID : 367 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 368 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 369 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 370 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 371 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 372 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 373 Batting Team Rajasthan Royals - Bowling Team Deccan Chargers
+ID : 374 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 375 Batting Team Kolkata Knight Riders - Bowling Team Pune Warriors
+ID : 376 Batting Team Deccan Chargers - Bowling Team Royal Challengers Bangalore
+ID : 377 Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+ID : 378 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 379 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 380 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 381 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 382 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 383 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 384 Batting Team Sunrisers Hyderabad - Bowling Team Pune Warriors
+ID : 385 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 386 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 387 Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+ID : 388 Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+ID : 389 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 390 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 391 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 392 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 393 Batting Team Rajasthan Royals - Bowling Team Pune Warriors
+ID : 394 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 395 Batting Team Mumbai Indians - Bowling Team Pune Warriors
+ID : 396 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 397 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 398 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 399 Batting Team Pune Warriors - Bowling Team Chennai Super Kings
+ID : 400 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 401 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 402 Batting Team Sunrisers Hyderabad - Bowling Team Pune Warriors
+ID : 403 Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+ID : 404 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 405 Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+ID : 406 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 407 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 408 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 409 Batting Team Pune Warriors - Bowling Team Kings XI Punjab
+ID : 410 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 411 Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+ID : 412 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 413 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 414 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 415 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 416 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 417 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 418 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 419 Batting Team Delhi Daredevils - Bowling Team Pune Warriors
+ID : 420 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 421 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 422 Batting Team Chennai Super Kings - Bowling Team Pune Warriors
+ID : 423 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 424 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 425 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 426 Batting Team Royal Challengers Bangalore - Bowling Team Pune Warriors
+ID : 427 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 428 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 429 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 430 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 431 Batting Team Pune Warriors - Bowling Team Rajasthan Royals
+ID : 432 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 433 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 434 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 435 Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+ID : 436 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 437 Batting Team Kolkata Knight Riders - Bowling Team Pune Warriors
+ID : 438 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 439 Batting Team Pune Warriors - Bowling Team Mumbai Indians
+ID : 440 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 441 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 442 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 443 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 444 Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+ID : 445 Batting Team Pune Warriors - Bowling Team Kolkata Knight Riders
+ID : 446 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 447 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 448 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 449 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 450 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 451 Batting Team Pune Warriors - Bowling Team Delhi Daredevils
+ID : 452 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 453 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 454 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 455 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 456 Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+ID : 457 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 458 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 459 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 460 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 461 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 462 Batting Team Royal Challengers Bangalore - Bowling Team Royal Challengers Bangalore
+ID : 463 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 464 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 465 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 466 Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+ID : 467 Batting Team Rajasthan Royals - Bowling Team Rajasthan Royals
+ID : 468 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 469 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 470 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 471 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 472 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 473 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 474 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 475 Batting Team Kings XI Punjab - Bowling Team Kings XI Punjab
+ID : 476 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 477 Batting Team Mumbai Indians - Bowling Team Mumbai Indians
+ID : 478 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 479 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 480 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 481 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 482 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 483 Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+ID : 484 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 485 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 486 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 487 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 488 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 489 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 490 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 491 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 492 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 493 Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+ID : 494 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 495 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 496 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 497 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 498 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 499 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 500 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 501 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 502 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 503 Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+ID : 504 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 505 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 506 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 507 Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+ID : 508 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 509 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 510 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 511 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 512 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 513 Batting Team Rajasthan Royals - Bowling Team Mumbai Indians
+ID : 514 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 515 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 516 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 517 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 518 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 519 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 520 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 521 Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+ID : 522 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 523 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 524 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 525 Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+ID : 526 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 527 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 528 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 529 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 530 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 531 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 532 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 533 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 534 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 535 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 536 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 537 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 538 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 539 Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+ID : 540 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 541 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 542 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 543 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 544 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 545 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 546 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 547 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 548 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 549 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 550 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 551 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 552 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 553 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 554 Batting Team Chennai Super Kings - Bowling Team Royal Challengers Bangalore
+ID : 555 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 556 Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+ID : 557 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 558 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 559 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 560 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 561 Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+ID : 562 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 563 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 564 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 565 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 566 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 567 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 568 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 569 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 570 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 571 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 572 Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+ID : 573 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 574 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 575 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 576 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 577 Batting Team Mumbai Indians - Bowling Team Rising Pune Supergiants
+ID : 578 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 579 Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+ID : 580 Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+ID : 581 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 582 Batting Team Rising Pune Supergiants - Bowling Team Gujarat Lions
+ID : 583 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 584 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 585 Batting Team Mumbai Indians - Bowling Team Gujarat Lions
+ID : 586 Batting Team Rising Pune Supergiants - Bowling Team Kings XI Punjab
+ID : 587 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Daredevils
+ID : 588 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 589 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 590 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 591 Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+ID : 592 Batting Team Royal Challengers Bangalore - Bowling Team Rising Pune Supergiants
+ID : 593 Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+ID : 594 Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+ID : 595 Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+ID : 596 Batting Team Rising Pune Supergiants - Bowling Team Kolkata Knight Riders
+ID : 597 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 598 Batting Team Sunrisers Hyderabad - Bowling Team Rising Pune Supergiants
+ID : 599 Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+ID : 600 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 601 Batting Team Rising Pune Supergiants - Bowling Team Gujarat Lions
+ID : 602 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 603 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 604 Batting Team Kings XI Punjab - Bowling Team Gujarat Lions
+ID : 605 Batting Team Rising Pune Supergiants - Bowling Team Mumbai Indians
+ID : 606 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 607 Batting Team Gujarat Lions - Bowling Team Delhi Daredevils
+ID : 608 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 609 Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiants
+ID : 610 Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+ID : 611 Batting Team Rising Pune Supergiants - Bowling Team Royal Challengers Bangalore
+ID : 612 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 613 Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+ID : 614 Batting Team Kolkata Knight Riders - Bowling Team Gujarat Lions
+ID : 615 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 616 Batting Team Sunrisers Hyderabad - Bowling Team Rising Pune Supergiants
+ID : 617 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 618 Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+ID : 619 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 620 Batting Team Royal Challengers Bangalore - Bowling Team Gujarat Lions
+ID : 621 Batting Team Rising Pune Supergiants - Bowling Team Kolkata Knight Riders
+ID : 622 Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+ID : 623 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 624 Batting Team Kolkata Knight Riders - Bowling Team Royal Challengers Bangalore
+ID : 625 Batting Team Delhi Daredevils - Bowling Team Rising Pune Supergiants
+ID : 626 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 627 Batting Team Kolkata Knight Riders - Bowling Team Gujarat Lions
+ID : 628 Batting Team Sunrisers Hyderabad - Bowling Team Delhi Daredevils
+ID : 629 Batting Team Kings XI Punjab - Bowling Team Rising Pune Supergiants
+ID : 630 Batting Team Mumbai Indians - Bowling Team Gujarat Lions
+ID : 631 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 632 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 633 Batting Team Gujarat Lions - Bowling Team Royal Challengers Bangalore
+ID : 634 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 635 Batting Team Gujarat Lions - Bowling Team Sunrisers Hyderabad
+ID : 636 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 7894 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 7895 Batting Team Delhi Daredevils - Bowling Team Kings XI Punjab
+ID : 7896 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 7897 Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
+ID : 7898 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 7899 Batting Team Rajasthan Royals - Bowling Team Delhi Daredevils
+ID : 7900 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 7901 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 7902 Batting Team Mumbai Indians - Bowling Team Delhi Daredevils
+ID : 7903 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 7904 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 7905 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 7906 Batting Team Kolkata Knight Riders - Bowling Team Delhi Daredevils
+ID : 7907 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 7908 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 7909 Batting Team Kings XI Punjab - Bowling Team Sunrisers Hyderabad
+ID : 7910 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 7911 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 7912 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 7913 Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+ID : 7914 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 7915 Batting Team Kings XI Punjab - Bowling Team Delhi Daredevils
+ID : 7916 Batting Team Sunrisers Hyderabad - Bowling Team Mumbai Indians
+ID : 7917 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 7918 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 7919 Batting Team Delhi Daredevils - Bowling Team Kolkata Knight Riders
+ID : 7920 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 7921 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 7922 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 7923 Batting Team Chennai Super Kings - Bowling Team Delhi Daredevils
+ID : 7924 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 7925 Batting Team Delhi Daredevils - Bowling Team Rajasthan Royals
+ID : 7926 Batting Team Chennai Super Kings - Bowling Team Kolkata Knight Riders
+ID : 7927 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 7928 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 7929 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 7930 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 7931 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 7932 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 7933 Batting Team Rajasthan Royals - Bowling Team Kings XI Punjab
+ID : 7934 Batting Team Mumbai Indians - Bowling Team Kolkata Knight Riders
+ID : 7935 Batting Team Delhi Daredevils - Bowling Team Sunrisers Hyderabad
+ID : 7936 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 7937 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 7938 Batting Team Delhi Daredevils - Bowling Team Royal Challengers Bangalore
+ID : 7939 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 7940 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 7941 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 7942 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 7943 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 7944 Batting Team Royal Challengers Bangalore - Bowling Team Sunrisers Hyderabad
+ID : 7945 Batting Team Delhi Daredevils - Bowling Team Chennai Super Kings
+ID : 7946 Batting Team Rajasthan Royals - Bowling Team Royal Challengers Bangalore
+ID : 7947 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 7948 Batting Team Delhi Daredevils - Bowling Team Mumbai Indians
+ID : 7949 Batting Team Kings XI Punjab - Bowling Team Chennai Super Kings
+ID : 7950 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 7951 Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
+ID : 7952 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 7953 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 11137 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 11138 Batting Team Sunrisers Hyderabad - Bowling Team Kolkata Knight Riders
+ID : 11139 Batting Team Delhi Capitals - Bowling Team Mumbai Indians
+ID : 11140 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 11141 Batting Team Delhi Capitals - Bowling Team Chennai Super Kings
+ID : 11142 Batting Team Kolkata Knight Riders - Bowling Team Kings XI Punjab
+ID : 11143 Batting Team Mumbai Indians - Bowling Team Royal Challengers Bangalore
+ID : 11144 Batting Team Rajasthan Royals - Bowling Team Sunrisers Hyderabad
+ID : 11145 Batting Team Mumbai Indians - Bowling Team Kings XI Punjab
+ID : 11146 Batting Team Kolkata Knight Riders - Bowling Team Delhi Capitals
+ID : 11147 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 11148 Batting Team Chennai Super Kings - Bowling Team Rajasthan Royals
+ID : 11149 Batting Team Kings XI Punjab - Bowling Team Delhi Capitals
+ID : 11150 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 11151 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 11152 Batting Team Delhi Capitals - Bowling Team Sunrisers Hyderabad
+ID : 11153 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 11309 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 11310 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 11311 Batting Team Royal Challengers Bangalore - Bowling Team Delhi Capitals
+ID : 11312 Batting Team Rajasthan Royals - Bowling Team Kolkata Knight Riders
+ID : 11313 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 11314 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 11315 Batting Team Kings XI Punjab - Bowling Team Mumbai Indians
+ID : 11316 Batting Team Rajasthan Royals - Bowling Team Chennai Super Kings
+ID : 11317 Batting Team Kolkata Knight Riders - Bowling Team Delhi Capitals
+ID : 11318 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 11319 Batting Team Kings XI Punjab - Bowling Team Royal Challengers Bangalore
+ID : 11320 Batting Team Kolkata Knight Riders - Bowling Team Chennai Super Kings
+ID : 11321 Batting Team Delhi Capitals - Bowling Team Sunrisers Hyderabad
+ID : 11322 Batting Team Royal Challengers Bangalore - Bowling Team Mumbai Indians
+ID : 11323 Batting Team Kings XI Punjab - Bowling Team Rajasthan Royals
+ID : 11324 Batting Team Chennai Super Kings - Bowling Team Sunrisers Hyderabad
+ID : 11325 Batting Team Mumbai Indians - Bowling Team Delhi Capitals
+ID : 11326 Batting Team Royal Challengers Bangalore - Bowling Team Kolkata Knight Riders
+ID : 11327 Batting Team Mumbai Indians - Bowling Team Rajasthan Royals
+ID : 11328 Batting Team Kings XI Punjab - Bowling Team Delhi Capitals
+ID : 11329 Batting Team Kolkata Knight Riders - Bowling Team Sunrisers Hyderabad
+ID : 11330 Batting Team Royal Challengers Bangalore - Bowling Team Chennai Super Kings
+ID : 11331 Batting Team Rajasthan Royals - Bowling Team Delhi Capitals
+ID : 11332 Batting Team Sunrisers Hyderabad - Bowling Team Chennai Super Kings
+ID : 11333 Batting Team Royal Challengers Bangalore - Bowling Team Kings XI Punjab
+ID : 11334 Batting Team Kolkata Knight Riders - Bowling Team Rajasthan Royals
+ID : 11335 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
+ID : 11336 Batting Team Sunrisers Hyderabad - Bowling Team Rajasthan Royals
+ID : 11337 Batting Team Delhi Capitals - Bowling Team Royal Challengers Bangalore
+ID : 11338 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 11339 Batting Team Sunrisers Hyderabad - Bowling Team Kings XI Punjab
+ID : 11340 Batting Team Royal Challengers Bangalore - Bowling Team Rajasthan Royals
+ID : 11341 Batting Team Chennai Super Kings - Bowling Team Delhi Capitals
+ID : 11342 Batting Team Mumbai Indians - Bowling Team Sunrisers Hyderabad
+ID : 11343 Batting Team Kings XI Punjab - Bowling Team Kolkata Knight Riders
+ID : 11344 Batting Team Rajasthan Royals - Bowling Team Delhi Capitals
+ID : 11345 Batting Team Sunrisers Hyderabad - Bowling Team Royal Challengers Bangalore
+ID : 11346 Batting Team Chennai Super Kings - Bowling Team Kings XI Punjab
+ID : 11347 Batting Team Kolkata Knight Riders - Bowling Team Mumbai Indians
+ID : 11412 Batting Team Chennai Super Kings - Bowling Team Mumbai Indians
+ID : 11413 Batting Team Sunrisers Hyderabad - Bowling Team Delhi Capitals
+ID : 11414 Batting Team Delhi Capitals - Bowling Team Chennai Super Kings
+ID : 11415 Batting Team Mumbai Indians - Bowling Team Chennai Super Kings
