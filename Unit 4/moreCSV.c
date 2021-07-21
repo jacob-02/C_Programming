@@ -6,6 +6,7 @@ int main()
 {
     FILE *fp = fopen("matches.csv", "r");
     FILE *fp1 = fopen("results.txt", "w");
+    char *id;
     char buffer[500];
 
     if (fp == NULL)
@@ -20,15 +21,16 @@ int main()
         while (fgets(buffer, 500, fp) != NULL)
         {
             strtok(buffer, ",");
-
-            for (int i = 1; i <= 3; i++)
+            id = strtok(NULL, ",");
+            for (int i = 1; i <= 2; i++)
                 strtok(NULL, ",");
             team1 = strtok(NULL, ",");
             team2 = strtok(NULL, ",");
 
-            printf("Batting Team %s - Bowling Team %s\n", team1, team2);
-            fprintf(fp1, "Batting Team %s - Bowling Team %s\n", team1, team2);
+            printf("%s YEAR: Batting Team %s - Bowling Team %s\n", id, team1, team2);
+            fprintf(fp1, "%s YEAR: Batting Team %s - Bowling Team %s\n", id, team1, team2);
         }
         fclose(fp);
+        fclose(fp1);
     }
 }
