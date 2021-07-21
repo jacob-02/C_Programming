@@ -26,7 +26,7 @@ void swap(struct sample** s1, struct sample** s2)
 int main()
 {
     struct sample s1[] = {{22, 2.2}, {33, 3.3}, {44, 4.4}};
-    struct sample * s[3];
+    struct sample * s[3]; // This is an array of pointers
 
     for (int i = 0; i < 3; i++)
     {
