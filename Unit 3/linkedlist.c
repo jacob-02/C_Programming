@@ -67,7 +67,6 @@ void createNodeList(int n)
 }
 void displayList()
 {
-    struct node *temp;
     if (newnode == NULL)
     {
         printf(" List is empty.");
