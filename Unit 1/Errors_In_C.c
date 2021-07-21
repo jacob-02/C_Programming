@@ -64,5 +64,7 @@ Logical Errors
 
 int main()
 {
-    printf("Standard C Version=%d", __STDC_VERSION__);
+    printf("Standard C Version=%ld\n", __STDC_VERSION__);
+    int b = printf("%-5d",16);
+    printf("\n%d\n", b);
 }
