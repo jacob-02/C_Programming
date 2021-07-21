@@ -24,7 +24,7 @@ void map(int *a, int n, int *b, int (*p)(int))
 {
     for (int i = 0; i < n; ++i)
     {
-        *(b + i) = p(*(a + i)); //b[i] = p(a[i])
+        b[i] = p(a[i]);
     }
 }
 void filter(int n, int *b, int (*p)(int))
