@@ -5,6 +5,7 @@
 int main()
 {
     FILE *fp = fopen("Match.csv", "r");
+    FILE *fp1 = fopen("abc.txt", "w");
 
     if (fp == NULL)
     {
@@ -18,10 +19,11 @@ int main()
         while ((fgets(buffer, 500, fp)) != NULL)
         {
             char *value = strtok(buffer, ",");
-            char *date = strtok(NULL, ",");
+            char *date = strtok(NULL, "\n");
 
-            printf("%s\n", date);
+            fprintf(fp1, "%s\n", date);
         }
         fclose(fp);
+        fclose(fp1);
     }
 }
