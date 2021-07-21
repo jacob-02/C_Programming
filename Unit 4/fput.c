@@ -8,7 +8,7 @@ int main()
     file = fopen("test.txt", "w");
 
     printf("Enter the data to be added into the file\n");
-    scanf("%s", data);
+    scanf("%[^\n]s", data);
 
     if (file == NULL)
     {
