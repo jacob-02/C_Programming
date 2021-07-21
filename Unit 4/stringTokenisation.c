@@ -19,7 +19,7 @@ int main()
         while ((fgets(buffer, 500, fp)) != NULL)
         {
             char *value = strtok(buffer, ",");
-            char *date = strtok(NULL, "\n");
+            char *date = strtok(NULL, ",");
 
             fprintf(fp1, "%s\n", date);
         }
