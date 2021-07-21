@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 union car
 {
     //Assumptions
@@ -8,6 +9,8 @@ union car
 int main()
 {
     union car c;
-    printf("Memory size occupied by data in bytes : %ld\n", sizeof(c));
+    // strcpy(c.name, "HELLO");
+    c.price = 200.43;
+    printf("Memory size occupied by data in bytes : %ld\n", sizeof(c.price));
     return 0;
 }
