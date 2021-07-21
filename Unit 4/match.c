@@ -29,5 +29,5 @@ int main ()
  
     fclose(fp);
 
-    printf("The number of matches in fielding is %d\n", count);
+    printf("The number of matches in Eden Gardens is %d\n", count);
 }
