@@ -13,6 +13,6 @@ int what(int a[], int n)
 
 int main()
 {
-    int a[] = {11, 44, 11, 33, 44};
-    printf("%d\n", what(a, 5));
+    int a[] = {11, 44, 11, 33, 44, 55};
+    printf("%d\n", what(a, 6));
 }
