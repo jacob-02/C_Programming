@@ -7,7 +7,7 @@
 int main()
 {
     printf("%d\n", mul(MAX + 1, MIN - 1));
-    // #define MAX 20; This is an error as the value of MAX is being redefined
+    #define MAX 20 //DON'T PUT A SEMI COLON
     printf("%d\n", mul((MAX + 1), MIN - 1));
     printf("%d\n", TEMP);
 }
