@@ -21,7 +21,7 @@ int main()
             char *id = val;
             val = strtok(NULL, ",");
 
-            if (atoi(val) == 2008)
+            if (atoi(val) == 2010)
             {
                 i++;
             }
@@ -38,23 +38,35 @@ int main()
                 val = strtok(NULL, ",");
             }
             char *winner = val;
-            if (atoi(season) == 2016)
+            for (int k = 0; k < 3; k++)
             {
-                printf("The winners of %d are is %s\n",atoi(season), winner);
+                val = strtok(NULL, ",");
             }
+            char *mvp = val;
+            // if (atoi(season) == 2016)
+            // {
+            //     printf("The winners of %d are is %s\n",atoi(season), winner);
+            // }
             
             if (strcmp(toss, winner))
             {
                 n++;
             }
-            if (strcmp(team1, "Kolkata Knight Riders") && strcmp(team2, "Royal Challengers Bangalore"))
+            if (strcmp(team1, "Kolkata Knight Riders") && strcmp(team2, "Royal Challengers Bangalore") && strcmp(team2, "Kolkata Knight Riders") && strcmp(team1, "Royal Challengers Bangalore"))
             {
                 k++;
+            }
+            if ((strcmp(team1, "Chennai Super Kings") && strcmp(team2, "Royal Challengers Bangalore")) && (strcmp(team2, "Chennai Super Kings") && strcmp(team1, "Royal Challengers Bangalore")))
+            {
+                if (atoi(season) == 2010)
+                {
+                    printf("The MVP for CSK vs RCB in 2010 %s\n", mvp);
+                }
             }
         }
     }
     fclose(fp);
-    printf("\nThe number of matches played is %d\n", i);
+    printf("\nThe number of matches played in 2010 is %d\n", i);
     printf("The number of times the winner and toss winner is same is %d\n", n);
     printf("The number of times that KKR and RCB played are %d\n", k);
 }
