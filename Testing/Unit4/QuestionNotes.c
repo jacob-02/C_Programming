@@ -25,7 +25,7 @@ int main()
             {
                 i++;
             }
-
+            char *season = val;
             for (int j = 0; j < 3; j++)
             {
                 val = strtok(NULL, ",");
@@ -38,7 +38,11 @@ int main()
                 val = strtok(NULL, ",");
             }
             char *winner = val;
-
+            if (atoi(season) == 2016)
+            {
+                printf("The winners of %d are is %s\n",atoi(season), winner);
+            }
+            
             if (strcmp(toss, winner))
             {
                 n++;
@@ -50,7 +54,7 @@ int main()
         }
     }
     fclose(fp);
-    printf("The number of matches played is %d\n", i);
+    printf("\nThe number of matches played is %d\n", i);
     printf("The number of times the winner and toss winner is same is %d\n", n);
     printf("The number of times that KKR and RCB played are %d\n", k);
 }
