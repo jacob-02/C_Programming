@@ -1,0 +1,8 @@
+Digital image processing is the exercise of computer algorithms to perform image processing on digital images,
+as a subcategory or field of digital signal processing ,
+Digital image processing has various advantages over analog image processing,
+It permits a much spacious range of algorithms to be applied to the input data and can be avoid problems such as the build-up of noise and signal distortion during processing ,
+Since images are defined over multi dimensions digital image processing may be modeled in the form of multidimensional systems (Digital Image Processing) ,
+First of all it should be known that what is digital image,
+A digital image is a representation of a two-dimensional image as a finite set of digital values, called picture elements or pixels, where Pixel values typically represent gray levels, colors, heights, opacities etc,
+Digitization implies that a digital image is an approximation of a real scene.
