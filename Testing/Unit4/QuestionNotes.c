@@ -6,7 +6,7 @@ int main()
 {
     FILE *fp = fopen("matches.csv", "r");
     char line[5000];
-    int i = 0;
+    int i = 0, n = 0, k = 0;
 
     if (fp == NULL)
     {
@@ -18,14 +18,39 @@ int main()
         while (fgets(line, 5000, fp) != NULL)
         {
             char *val = strtok(line, ",");
+            char *id = val;
             val = strtok(NULL, ",");
 
             if (atoi(val) == 2008)
             {
                 i++;
             }
+
+            for (int j = 0; j < 3; j++)
+            {
+                val = strtok(NULL, ",");
+            }
+            char *team1 = val;
+            char *team2 = strtok(NULL, ",");
+            char *toss = strtok(NULL, ",");
+            for (int k = 0; k < 4; k++)
+            {
+                val = strtok(NULL, ",");
+            }
+            char *winner = val;
+
+            if (strcmp(toss, winner))
+            {
+                n++;
+            }
+            if (strcmp(team1, "Kolkata Knight Riders") && strcmp(team2, "Royal Challengers Bangalore"))
+            {
+                k++;
+            }
         }
     }
     fclose(fp);
     printf("The number of matches played is %d\n", i);
+    printf("The number of times the winner and toss winner is same is %d\n", n);
+    printf("The number of times that KKR and RCB played are %d\n", k);
 }
