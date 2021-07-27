@@ -23,5 +23,9 @@ int main(int argc, char argv[])
         strcat(new, p);
         putenv(new);
         printf("The new path is :\n%s\n", new);
+
+        setenv("USER","JACOB",1);
+        p = getenv("USER");
+        printf("p = %s\n", p);
     }
 }
