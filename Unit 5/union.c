@@ -19,7 +19,7 @@
 #include <string.h>
 union car
 {                  //Assumptions
-    char name[13]; // 1 byte for char
+    char name[10]; // 1 byte for char
     // int price;   // 4 bytes for float
 };
 int main()
