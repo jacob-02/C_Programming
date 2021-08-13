@@ -20,7 +20,7 @@
 union car
 {                  //Assumptions
     char name[13]; // 1 byte for char
-    // float price;   // 4 bytes for float
+    // int price;   // 4 bytes for float
 };
 int main()
 {
