@@ -16,14 +16,15 @@
 // }
 
 #include <stdio.h>
+#include <string.h>
 union car
 {                  //Assumptions
-    char name[10]; // 1 byte for char
-    float price;   // 4 bytes for float
+    char name[13]; // 1 byte for char
+    // float price;   // 4 bytes for float
 };
 int main()
 {
     union car c;
-    printf("Memory size occupied by data in bytes : %d\n", sizeof(car)); // Don't know why does this show error
+    printf("Memory size occupied by data in bytes : %d\n", sizeof(c));
     return 0;
 }
