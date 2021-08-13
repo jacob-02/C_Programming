@@ -55,7 +55,7 @@ void createNodeList(int n)
             else
             {
                 printf(" Input data for node %d : ", i);
-                scanf(" %d", &head->data);
+                scanf("%d", &head->data);
 
                 head->next = NULL; // links the address field of head with NULL
 
