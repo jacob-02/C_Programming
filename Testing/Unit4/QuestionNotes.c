@@ -26,11 +26,11 @@ int main()
                 i++;
             }
             char *season = val;
+            char *team1;
             for (int j = 0; j < 3; j++)
             {
-                val = strtok(NULL, ",");
+                team1 = strtok(NULL, ",");
             }
-            char *team1 = val;
             char *team2 = strtok(NULL, ",");
             char *toss = strtok(NULL, ",");
             for (int k = 0; k < 4; k++)
