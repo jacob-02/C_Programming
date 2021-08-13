@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "book.c"
+#include "book.h"
 
 int main()
 {
