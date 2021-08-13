@@ -99,6 +99,7 @@ void normal()
         }
         
     }
+    free(p);
 }
 
 int main()
