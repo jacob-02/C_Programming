@@ -67,4 +67,5 @@ int main()
         printf("The employee details\n");
         printf("%d\n%s\n%f\n", ptr->no, ptr->name, ptr->salary);
     }
+    free(ptr);
 }

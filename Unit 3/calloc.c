@@ -39,6 +39,7 @@ void structure()
             printf("%d\n%s\n%f\n", (ptr+i)->no, (ptr+i)->name, (ptr+i)->salary);
         }
     }
+    free(ptr);
 }
 
 void normal()
@@ -72,6 +73,7 @@ void normal()
             printf("%d", *(x + i));
         }
     }
+    free(x);
 }
 
 int main()
