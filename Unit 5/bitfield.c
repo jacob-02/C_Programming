@@ -18,8 +18,8 @@ int main()
 {
     printf("Sizeof the structure is %lu\n", sizeof(struct sample));
     printf("Sizeof the structure is %lu\n", sizeof(struct sample1));
-    struct sample s;
+    struct sample1 s;
 
-    s.a = 6;    //Not allowed. large integer implicitly truncated to unsigned type 
+    s.a = -1;    //Not allowed. large integer implicitly truncated to unsigned type 
     printf("%d\n", s.a);
 }
