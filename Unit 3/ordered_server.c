@@ -28,8 +28,8 @@ void insert_list(mylist_t *p_list, int e)
 
         if (prev == NULL)
         {
-            p_list->head = temp;
             temp->link = present;
+            p_list->head = temp;
         }
 
         else
