@@ -24,6 +24,6 @@
 int main()
 {
     int y = 8;
-    printf("%d\n", sqr(2 + 3)); 
+    printf("%d\n", sqr(2 + 3)); // 2 + 3 * 2 + 3
     return 0;
 }
